@@ -1,0 +1,15 @@
+{
+  "scan_info": {
+    "timestamp": "2025-10-20T17:51:51.755662",
+    "total_found": 0,
+    "scan_duration": 1.8812220096588135,
+    "paths_discovered": 0
+  },
+  "statistics": {
+    "alive_hosts": 0,
+    "unique_ips": 0,
+    "status_codes": {},
+    "technologies": {}
+  },
+  "subdomains": {}
+}
